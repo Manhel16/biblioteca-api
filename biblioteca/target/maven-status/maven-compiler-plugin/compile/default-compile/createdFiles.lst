@@ -1,0 +1,13 @@
+com\biblioteca\service\DepartamentoService.class
+com\biblioteca\controller\DepartamentoController.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\model\Departamento.class
+com\biblioteca\service\BibliotecaService.class
+com\biblioteca\controller\BibliotecaController.class
+com\biblioteca\exceptions\DepartamentoBadRequestException.class
+com\biblioteca\exceptions\DepartamentoNotFoundException.class
+com\biblioteca\model\Biblioteca.class
+com\biblioteca\util\ImageUtils.class
+com\biblioteca\exceptions\DepartamentoException.class
+com\biblioteca\repository\BibliotecaRepository.class
+com\biblioteca\repository\DepartamentoRepository.class
